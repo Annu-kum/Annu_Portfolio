@@ -1,8 +1,8 @@
-1:HL["/Annu_Portfolio/_next/static/css/1ebb35d4b35e115d.css","style"]
-0:["mlbomnoNh1Oyw2RGiM1-G",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/Annu_Portfolio/_next/static/css/1ebb35d4b35e115d.css","precedence":"next"}]],"$L3"]]]]
-4:I{"id":4657,"chunks":["185:static/chunks/app/layout-e0731dafc0b3688d.js"],"name":"ThemeProvider","async":false}
-5:I{"id":1443,"chunks":["272:static/chunks/webpack-558c7c6080bbbe25.js","971:static/chunks/fd9d1056-f0c4958f854e5904.js","864:static/chunks/864-0e7faf09904d6ff8.js"],"name":"","async":false}
-6:I{"id":8639,"chunks":["272:static/chunks/webpack-558c7c6080bbbe25.js","971:static/chunks/fd9d1056-f0c4958f854e5904.js","864:static/chunks/864-0e7faf09904d6ff8.js"],"name":"","async":false}
+1:HL["/Annu_Portfolio/_next/static/css/5e4ab948d1cf1cae.css","style"]
+0:["DxC3yROKoEM0LcLqri4jj",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/Annu_Portfolio/_next/static/css/5e4ab948d1cf1cae.css","precedence":"next"}]],"$L3"]]]]
+4:I{"id":4657,"chunks":["185:static/chunks/app/layout-82a009eadda43374.js"],"name":"ThemeProvider","async":false}
+5:I{"id":1443,"chunks":["272:static/chunks/webpack-bd1b5237a03747c3.js","971:static/chunks/fd9d1056-f0c4958f854e5904.js","864:static/chunks/864-0e7faf09904d6ff8.js"],"name":"","async":false}
+6:I{"id":8639,"chunks":["272:static/chunks/webpack-bd1b5237a03747c3.js","971:static/chunks/fd9d1056-f0c4958f854e5904.js","864:static/chunks/864-0e7faf09904d6ff8.js"],"name":"","async":false}
 8:I{"id":9979,"chunks":["364:static/chunks/364-8c663c88c9ceb0a5.js","931:static/chunks/app/page-5aad38de2fb166de.js"],"name":"Navbar","async":false}
 9:I{"id":7050,"chunks":["364:static/chunks/364-8c663c88c9ceb0a5.js","931:static/chunks/app/page-5aad38de2fb166de.js"],"name":"HeroSection","async":false}
 a:I{"id":7135,"chunks":["364:static/chunks/364-8c663c88c9ceb0a5.js","931:static/chunks/app/page-5aad38de2fb166de.js"],"name":"AboutSection","async":false}
