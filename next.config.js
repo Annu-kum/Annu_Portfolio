@@ -7,4 +7,10 @@ const nextConfig = {
   images: { unoptimized: true },
 };
 
-module.exports = nextConfig;
+const isProd = process.env.NODE_ENV === 'production';
+
+module.exports = {
+  output: "export",
+  basePath: isProd ? "/Annu_Portfolio" : "",
+  assetPrefix: isProd ? "/Annu_Portfolio/" : "",
+};

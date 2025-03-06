@@ -55,7 +55,7 @@ export function ContactSection() {
           <h2 className="text-3xl font-bold tracking-tighter mb-4">Get In Touch</h2>
           <p className="text-muted-foreground max-w-[700px]">
           Feel free to reach out to me for any questions, opportunities, or just to say hello. 
-          I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+          I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
           </p>
         </div>
         

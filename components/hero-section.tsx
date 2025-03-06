@@ -30,7 +30,7 @@ export function HeroSection() {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter">
-              Hi, I'm <span className="code-gradient">Annu Kumari</span>
+              Hi, I &apos; m <span className="code-gradient">Annu Kumari</span>
             </h1>
             
             <h2 className="text-xl md:text-2xl text-muted-foreground">

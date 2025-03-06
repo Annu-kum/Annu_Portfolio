@@ -19,7 +19,7 @@ export function AboutSection() {
             My Journey as a <span className="code-gradient">Developer</span>
           </h2>
           <p className="text-muted-foreground max-w-[700px]">
-            I'm passionate about creating efficient, scalable software solutions that solve real-world problems.
+            I&apos;m passionate about creating efficient, scalable software solutions that solve real-world problems.
           </p>
         </div>
         
@@ -54,8 +54,8 @@ export function AboutSection() {
             <h3 className="text-2xl font-bold">Who I Am</h3>
             <div className="space-y-4">
               <p>
-                I'm a Full Stack Developer with expertise in modern JavaScript frameworks and cloud technologies.
-                My journey in software development began 1 years ago, and I've been passionate about creating
+                I&apos;m a Full Stack Developer with expertise in modern JavaScript frameworks and cloud technologies.
+                My journey in software development began 1 years ago, and I&apos;ve been passionate about creating
                 elegant solutions to complex problems ever since.
               </p>
               <p>
